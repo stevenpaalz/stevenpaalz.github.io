@@ -3384,3 +3384,72 @@ input, select, textarea {
 
 	}
 
+.repo-button-title-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.repo-button-title-container {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 8px;
+	height: 40px;
+}
+
+.repo-button-title-container button{
+	width: 90px;
+	height: 100%;
+	padding: 8px 0px;
+	font-family: "Lato", sans-serif;
+	cursor: pointer;
+	background-color: white;
+	color: #01255e;
+	border: 2px solid #01255e;
+	border-radius: 4px;
+}
+
+.repo-button-title-container button:hover{
+	background: #01255e;
+	-webkit-box-shadow: inset 0px 0px 4px 1px #0049d2;
+	   -moz-box-shadow: inset 0px 0px 4px 1px #0049d2;
+			box-shadow: inset 0px 0px 4px 1px #0049d2;
+	outline: none;
+	color: white;
+	transition: 0.5s;
+	border-color: #0049d2;
+}
+
+
+.repo-button-title-container button:active:hover {
+	background: #01255e;
+	-webkit-box-shadow: inset 0px 0px 3px 1px #00050e;
+	   -moz-box-shadow: inset 0px 0px 3px 1px #00050e;
+			box-shadow: inset 0px 0px 3px 1px #00050e;
+	outline: none;
+	color: white;
+	border-color: #00050e;
+}
+
+.project-header {
+	cursor: pointer;
+	margin-bottom: 0;
+}
+
+.project-header:hover {
+	text-decoration: underline;
+	color: #01255e;
+}
+
+.project-header:active:hover {
+	color: #11a3e7;
+}
+
+.project-image:hover {
+	box-shadow: -4px 4px 10px 4px #7a7a7a;
+	transition: 0.3s;
+}
+
+.project-image:active:hover {
+	box-shadow: -2px 2px 10px 2px #7a7a7a;
+}
