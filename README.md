@@ -14,12 +14,12 @@
   <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" /></a>
   <a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
   <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS S3" /></a>
-  
 </p>
 
 - 🔭 I’m currently working on **Interview Prep**
 - 🌱 I’m currently learning **MongoDB**
 - 💬 Ask me about **JavaScript, React, where to find the best burger in New York**
+- 👷‍♂️ You can see all of my current projects at: https://stevenpaalz.github.io/
 - 📫 How to reach me: **stevenpaalz@gmail.com**
 - ⚡ Fun fact: I love to travel, a few highlights:
   -  Running with the bulls in Pamplona
@@ -29,7 +29,7 @@
 
 <h3 align="left">Projects</h3>
 <p>
-  <a align="left" href="https://magellan-wpae.onrender.com/"><img width="25%" src="https://user-images.githubusercontent.com/121642083/234340527-a18827f2-59c9-4a79-a83d-019217fa954e.png" alt="Zilloh project"/></a>
+  <a align="left" href="https://zilloh.onrender.com/"><img width="25%" src="https://user-images.githubusercontent.com/121642083/236227816-2d67862e-ef41-47bf-855b-f416fc4f2336.png" alt="Zilloh project"/></a>
 </p>
 <p>
   <a align="left" href="https://magellan-wpae.onrender.com/"><img width="25%" src="https://user-images.githubusercontent.com/121642083/234339742-29cd06ed-52b7-4e92-9be4-d50598f232c6.png" alt="Magellan project"/></a>
@@ -41,4 +41,10 @@
 <h3 align="left">Connect with me</h3>
 <p>
   <a align="left" href="https://www.linkedin.com/in/steve-paalz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a align="left" href="https://wellfound.com/u/steven-paalz"><img src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white" alt="angellist" /></a>
+  <a align="left" href="mailto:stevenpaalz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
+
+<h3 align="left">My Statistics</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevenpaalz&show_icons=true&locale=en&layout=compact" alt="stevenpaalz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stevenpaalz&show_icons=true&locale=en" alt="stevenpaalz" /></p>
